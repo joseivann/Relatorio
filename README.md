@@ -97,6 +97,8 @@
 
  **Lições aprendidas**:
 
+> Durante o projeto, aprendemos duas lições fundamentais. Primeiramente, compreendemos a importância do planejamento e da organização da equipe. Além disso, outro aspecto significativo que aprendemos foi a importância em reconhecer que sempre há algo a aprender e que a ajuda de outras pessoas pode ser fundamental para o progresso do projeto.
+
 
 
 
