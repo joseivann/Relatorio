@@ -1,6 +1,6 @@
 # The Ultimate Platformer
 
-  > Em um mundo repleto de desafios e mistérios, surge o The Ultimate Platformer, um jogo envolvente e cheio de adrenalina. Prepare-se para embarcar em uma jornada emocionante, onde cada passo pode ser um novo desafio ou um encontro com o perigo. Com plataformas de diferentes Alturas, Obstáculos mortais e inimigos traiçoeiros, cada fase é um teste de habilidade e agilidade.
+  > Em um mundo repleto de desafios e mistérios, surge o The Ultimate Platformer, um jogo envolvente e cheio de adrenalina. Prepare-se para embarcar em uma jornada emocionante, onde cada passo pode ser um novo desafio ou um encontro com o perigo. Com Plataformas de diferentes Alturas, Obstáculos Mortais e Inimigos Traiçoeiros, cada fase é um teste de habilidade e agilidade.
 Você assume o controle de um corajoso personagem, com o objetivo de alcançar a bandeira que marca o próximo nível. Mas cuidado! Cada erro pode custar uma vida, e com apenas três corações, o perigo está sempre à espreita. Explore cenários intricados, supere obstáculos desafiadores enquanto busca a vitória.
 Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. Será você capaz de superar todos os desafios e se tornar o mestre do The Ultimate Platformer?
 
