@@ -14,6 +14,10 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 
 # 🏃 Como Baixar e Jogar:
 
-Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
+* Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
+
+* O seu objetivo é passar as 4 fases coletando ouros, chaves e diamantes. Atento para NÃO perder todas as suas vidas.
+
+* Sua vida e a quantidade de itens coletados apareceram no canto superior da tela.
 
 
