@@ -13,13 +13,13 @@
    * Rafael Domingos Nobrega </rdn> ([]())
    * José Ivan Xisto Vilela Junior </jixvj> ([joseivann](https://github.com/joseivann))
 
-## 📖 Índice:
+## 📖 Índice
 
 | [❓ Informações-chave](#-Membros-da-equipe)
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📝 Conceitos](#-Conceitos)
-| [🔒 Desafios-Experiência](#-Desafios/Experiência)
+| [🔒 Desafios/Experiência](#-Lições-aprendidas)
 
 ## 🏃 Como Baixar e Jogar
 
