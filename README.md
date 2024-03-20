@@ -6,24 +6,24 @@
 
 ![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
 
-# 👥 Membros da equipe:
+# Membros da equipe:
    * Lucas Guimarães Fernandes </lgf> ([CS-LucasGuimaraes](https://github.com/CS-LucasGuimaraes))
    * Marcos Didier Oliveira Neto </mdon> ([marcosdidier](https://github.com/marcosdidier)) 
    * Fernanda Marques Neves </fmn> ([fiefaneves](https://github.com/fiefaneves))
    * Rafael Domingos Nobrega </rdn> ([]())
    * José Ivan Xisto Vilela Junior </jixvj> ([joseivann](https://github.com/joseivann))
 
-## 📖 Índice
+## Índice
 
-| [❓ Informações-chave](#-Membros-da-equipe)
-| [🗂️ Divisão de tarefas](#-Divisão-de-tarefas)
-| [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
-| [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
-| [📋 Organização do código](#-Organização-do-código)
-| [📝 Conceitos](#-Conceitos)
-| [🔒 Desafios/Experiência](#-Desafios/Experiência) |
+| [Informações-chave](#-Membros-da-equipe)
+| [Divisão de tarefas](#-Divisão-de-tarefas)
+| [Instruções de execução](#-Como-Baixar-e-Jogar)
+| [Bibliotecas usadas](#-Bibliotecas-usadas)
+| [Organização do código](#-Organização-do-código)
+| [Conceitos](#-Conceitos)
+| [Desafios/Experiência](#-Desafios/Experiência) |
 
-## 🏃 Como Baixar e Jogar
+## Como Baixar e Jogar
 
 > Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
 
@@ -40,7 +40,7 @@
 
 **Link para o codigo fonte**: https://github.com/CS-LucasGuimaraes/Platformer.git
 
-## 📖 Bibliotecas usadas
+## Bibliotecas usadas
 
  **PyGame**:
 > Essa biblioteca consiste em um conjunto de módulos criados com o propósito de facilitar a criação de jogos, possibilitando o desenvolvimento de jogos e aplicativos multimídia utilizando a linguagem Python.
@@ -48,7 +48,7 @@
  **Json**:
 > O Json é uma ferramenta essencial na criação de jogos simples em 2D com Python, permitindo o armazenamento e troca eficiente de dados.
 
-## 🗂️ Divisão de tarefas:
+## Divisão de tarefas:
 
 |            Equipe              |          Tarefas           |
 | ------------------------------ | -------------------------- |
@@ -58,14 +58,14 @@
 | **Rafael Domingos** | ...... |
 | **José Ivan** | ....... |
 
-## 📋 Organização do código
+## Organização do código
 
 -
 -
 -
 -
 
-## 📝 Conceitos
+## Conceitos
 
  **Estruturas Condicionais**:
 
@@ -74,7 +74,7 @@
 
  **Loops**:
 
-## 🔒 Desafios/Experiência
+## Desafios/Experiência
 
  **Maiores desafios**:
 
