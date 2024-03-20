@@ -1,4 +1,4 @@
-# The Ultimate Platformer Game
+# The Ultimate Platformer
 
 Bem-vindo ao repositório do The Ultimate Platformer Game! Este é um jogo desenvolvido durante a disciplina de Introdução à Programação do Centro de Informática.
 
