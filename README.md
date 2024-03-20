@@ -54,9 +54,9 @@
 | ------------------------------ | -------------------------- |
 | **Lucas Guimarães** | Draw Levels, Menu, Game Over, Collectible system, Local Multiplayer, Load new Assets (Pixel Plataformer)|
 | **Marcos Didier** | Draw Levels, Menu, Game Over, Collectible system, Load new Assets (Pixel Plataformer) |
-| **Fernanda Marques** | Draw Levels, Menu, Game Over, Collectible system, Pause game,  |
-| **Rafael Domingos** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer) |
-| **José Ivan** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer) |
+| **Fernanda Marques** | Draw Levels, Menu, Game Over, Collectible system, Pause game, Relatório  |
+| **Rafael Domingos** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer), Relatório |
+| **José Ivan** | Draw Levels, Local Multiplayer, Relatório, Load new Assets (Pixel Plataformer) |
 
 ## 👨🏻‍💻 Organização do código
 
