@@ -20,4 +20,11 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 
 * Sua vida e a quantidade de itens coletados apareceram no canto superior da tela.
 
+Controles:
+  |            Teclas              |          Descrição           |
+  | ------------------------------ | -------------------------- |
+  | **W-A-S-D** | Movimento |
+  | **Tecla de Espaço** | Pula |
+  | **⬆-⬅-⬇-⮕** | Movimento |
+
 
