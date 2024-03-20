@@ -52,11 +52,11 @@
 
 |            Equipe              |          Tarefas           |
 | ------------------------------ | -------------------------- |
-| **Lucas Guimarães** | .... |
-| **Marcos Didier** | .... |
-| **Fernanda Marques** | ...... |
-| **Rafael Domingos** | ...... |
-| **José Ivan** | ....... |
+| **Lucas Guimarães** | Draw Levels, Menu, Game Over, Collectible system, Local Multiplayer, Load new Assets (Pixel Plataformer)|
+| **Marcos Didier** | Draw Levels, Menu, Game Over, Collectible system, Load new Assets (Pixel Plataformer) |
+| **Fernanda Marques** | Draw Levels, Menu, Game Over, Collectible system, Pause game,  |
+| **Rafael Domingos** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer) |
+| **José Ivan** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer) |
 
 ## 👨🏻‍💻 Organização do código
 
