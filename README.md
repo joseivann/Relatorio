@@ -48,9 +48,10 @@
 
 ## 📝 Conceitos:
 
- **Laços**:
-
  **Estruturas Condicionais**:
+
+  **Laços**:
+> Podem ser usados no código a partir dos comandos For e While, estas estruturas permitem a execução de instruções repetidas vezes, até que uma condição seja atingida. Dentro do jogo
 
  **Loops**:
 
