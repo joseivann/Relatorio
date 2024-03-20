@@ -22,6 +22,14 @@
 | [📝 Conceitos](#-Conceitos)
 | [🔒 Desafios/Experiência](#-Desafios/Experiência) |
 
+## 📖 Divisão de tarefas
+
+-
+-
+-
+-
+-
+
 ## 🏃 Como Baixar e Jogar
 
 > Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
