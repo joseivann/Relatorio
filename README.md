@@ -6,9 +6,11 @@
 
 ![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
 
+# Membros da equipe:
+
 ## 📖 Índice:
 
-| [❓ Informações-chave](#The-Ultimate-Platformer)
+| [❓ Informações-chave](#-Membros-da-equipe)
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [🏗️ Estrutura do repositório](#🏗️-Estrutura-do-repositório)
