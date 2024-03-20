@@ -59,6 +59,8 @@
 
  **Pygame**:
 
+> O uso do Pygame representou um dos principais desafios, dado que a maioria dos membros tinha pouca ou nenhuma experiência anterior com essa ferramenta. Além disso, sua utilização era indispensável, o que nos levou a aprender o básico para iniciar o desenvolvimento do projeto. A exploração dessa extensa biblioteca nos proporcionou uma aprendizagem diversificada, desde a criação de elementos simples, como um quadrado móvel na tela, até a elaboração de um jogo mais complexo, que era o objetivo do nosso projeto.
+
  **Programação Orientada a Objetos**:
 
  **Github**:
