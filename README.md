@@ -12,7 +12,7 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 | [📖 Bibliotecas usadas](#📖-Bibliotecas-usadas)
 | [🔒 Principais Desafios](#🔒-Principais-Desafios) |
 
-# 🏃 Como Baixar e Jogar
+# 🏃 Instruções de execução
 
 * Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
 
