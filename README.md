@@ -48,7 +48,7 @@
  **Json**:
 > O Json é uma ferramenta essencial na criação de jogos simples em 2D com Python, permitindo o armazenamento e troca eficiente de dados.
 
-## 🗂️ tarefas
+## 🗂️ Divisão de tarefas
 
 -
 -
