@@ -48,3 +48,10 @@
 
 ## 📝 Conceitos:
 
+ **Laços**:
+
+ **Estruturas Condicionais**:
+
+ **Loops**:
+
+ 
