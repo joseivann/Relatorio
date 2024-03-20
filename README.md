@@ -4,11 +4,7 @@ Bem-vindo ao repositório do The Ultimate Platformer Game! Este é um jogo desen
 
 Este repositório abriga os envios de código para cada etapa do jogo, mostrando as habilidades de resolução de problemas e o progresso ao longo do desenvolvimento do projeto.
 
-
-
-
-https://github.com/joseivann/jogo/assets/84510651/334eed4d-add4-4b8d-8355-8f9d06e9fbf0
-
+![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
 
 ## 📖 Índice:
 
