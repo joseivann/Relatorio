@@ -27,4 +27,8 @@ Controles:
   | **Tecla de Espaço** | Pula |
   | **🔼-◀-🔽-▶** | Movimento |
 
+## 📖 Bibliotecas usadas
+
+ * PyGame: 
+ * Json: 
 
