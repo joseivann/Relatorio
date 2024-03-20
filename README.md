@@ -16,14 +16,13 @@
 ## 🎯 Índice
 
 | [👥 Informações-chave](#-Membros-da-equipe)
-| [Divisão de tarefas](#-Divisão-de-tarefas)
-| [Instruções de execução](#-Como-Baixar-e-Jogar)
+| [🎮 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [Bibliotecas usadas](#-Bibliotecas-usadas)
 | [Organização do código](#-Organização-do-código)
 | [Conceitos](#-Conceitos)
 | [Desafios/Experiência](#-Desafios/Experiência) |
 
-## Como Baixar e Jogar
+## 🎮 Como Baixar e Jogar
 
 > Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
 
