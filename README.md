@@ -1,6 +1,7 @@
 # The Ultimate Platformer
 
 >   Bem-vindo ao repositório do The Ultimate Platformer Game! Este é um jogo desenvolvido durante a disciplina de Introdução à Programação do Centro de Informática.
+> 
     Este repositório abriga os envios de código para cada etapa do jogo, mostrando as habilidades de resolução de problemas e o progresso ao longo do desenvolvimento do projeto.
 
 ![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
