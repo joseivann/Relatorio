@@ -8,6 +8,12 @@
 
 # 👥 Membros da equipe:
 
+    * Lucas Guimarães Fernandes </lgf> ([CS-LucasGuimaraes](https://github.com/CS-LucasGuimaraes))
+    * Marcos Didier Oliveira Neto </mdon> ([marcosdidier](https://github.com/marcosdidier)) 
+    * Fernanda Marques Neves </fmn> ([fiefaneves](https://github.com/fiefaneves))
+    * Rafael Domingos Nobrega </rdn> ([]())
+    * José Ivan Xisto Vilela Junior </jixvj> ([joseivann](https://github.com/joseivann))
+
 ## 📖 Índice:
 
 | [❓ Informações-chave](#-Membros-da-equipe)
