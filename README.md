@@ -12,6 +12,6 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 | [🏃 Instruções de execução](#🏃-Instruções-de-execução)
 | [🔒 Principais Desafios](#🔒-Principais-Desafios) |
 
-
+# Como Baixar e Jogar:
 
 
