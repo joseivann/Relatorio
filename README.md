@@ -52,7 +52,7 @@
 
 |            Equipe              |          Tarefas           |
 | ------------------------------ | -------------------------- |
-| **Lucas Guimarães** | Draw Levels, Menu, Game Over, Collectible system, Local Multiplayer, Load new Assets (Pixel Plataformer)|
+| **Lucas Guimarães** | Draw Levels, Menu, Game Over, Collectible system, Local Multiplayer, Load new Assets (Pixel Plataformer), JoyStick Integration|
 | **Marcos Didier** | Draw Levels, Menu, Game Over, Collectible system, Load new Assets (Pixel Plataformer) |
 | **Fernanda Marques** | Draw Levels, Menu, Game Over, Collectible system, Pause game, Relatório  |
 | **Rafael Domingos** | Draw Levels, Local Multiplayer, Load new Assets (Pixel Plataformer), Relatório |
