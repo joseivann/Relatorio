@@ -45,7 +45,7 @@
  **PyGame**:
 > Essa biblioteca consiste em um conjunto de módulos criados com o propósito de facilitar a criação de jogos, possibilitando o desenvolvimento de jogos e aplicativos multimídia utilizando a linguagem Python.
    
- **Json**:
+ **JSON**:
 > O Json é uma ferramenta essencial na criação de jogos simples em 2D com Python, permitindo o armazenamento e troca eficiente de dados.
 
 ## 📋 Divisão de tarefas
