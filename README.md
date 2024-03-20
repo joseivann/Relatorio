@@ -63,6 +63,8 @@
 
  **Maiores erros cometidos**:
 
+ > Acreditamos que um dos nossos erros significativos foi a coordenação do trabalho em equipe, quem vai fazer o que, como cada pessoa vai fazer a sua parte, a integração das partes desenvolvidas e a resolução de alguns bugs durante o processo.
+
  **Lições aprendidas**:
 
 
