@@ -7,7 +7,7 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 ## 📖 Índice:
 
 | [❓ Informações-chave](#The-Ultimate-Platformer)
-| [🏃 Instruções de execução](#🏃-Como-Baixar-e-Jogar)
+| [🏃 Instruções de execução](#🏃-Instruções-de-execução)
 | [🏗️ Estrutura do repositório](#🏗️-Estrutura-do-repositório)
 | [📖 Bibliotecas usadas](#📖-Bibliotecas-usadas)
 | [🔒 Principais Desafios](#🔒-Principais-Desafios) |
