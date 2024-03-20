@@ -73,7 +73,7 @@
 > Dentro do jogo, é possível empregar essas estruturas no código através dos comandos For e While. Eles possibilitam a repetição de instruções até que uma condição seja alcançada. Dentro do jogo...
 
  **Loops**:
- .
+ 
  .
  .
  .
