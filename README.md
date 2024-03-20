@@ -19,7 +19,7 @@
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📝 Conceitos](#-Conceitos)
-| [🔒 Principais Desafios](#🔒-Principais-Desafios) |
+| [🔒 Principais Desafios](#Desafios/Experiência) |
 
 ## 🏃 Como Baixar e Jogar
 
@@ -55,7 +55,7 @@
 
  **Loops**:
 
-## Desafios/Experiência:
+## Desafios/Experiência
 
  **Maiores desafios**:
 
