@@ -31,14 +31,14 @@
 
 > Sua vida e a quantidade de itens coletados apareceram no canto superior da tela.
 
+**Link para o codigo fonte**: https://github.com/CS-LucasGuimaraes/Platformer.git
+
 **Controles**:
   |            Teclas              |          Descrição           |
   | ------------------------------ | -------------------------- |
   | **W-A-S-D** | Movimento |
   | **Tecla de Espaço** | Pula |
   | **&#8592; , &#8593; , &#8594; , &#8595;** | Movimento |
-
-**Link para o codigo fonte**: https://github.com/CS-LucasGuimaraes/Platformer.git
 
 ## 📖 Bibliotecas usadas
 
