@@ -18,7 +18,7 @@
 | [❓ Informações-chave](#-Membros-da-equipe)
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
-| [🏗️ Estrutura do repositório](#🏗️-Estrutura-do-repositório)
+| [📝 Conceitos](#📝-Conceitos)
 | [🔒 Principais Desafios](#🔒-Principais-Desafios) |
 
 ## 🏃 Como Baixar e Jogar
@@ -46,7 +46,7 @@
  **Json**:
 > O Json é uma ferramenta essencial na criação de jogos simples em 2D com Python, permitindo o armazenamento e troca eficiente de dados.
 
-## 📝 Conceitos:
+## 📝 Conceitos
 
  **Estruturas Condicionais**:
 
