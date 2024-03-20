@@ -21,7 +21,7 @@
 | [📋 Divisão de tarefas](#-Divisão-de-tarefas)
 | [👨🏻‍💻 Organização do código](#-Organização-do-código)
 | [📝 Conceitos](#-Conceitos)
-| [Desafios/Experiência](#-Desafios/Experiência) |
+| [🧠 Desafios/Experiência](#-Desafios/Experiência)
 
 ## 🎮 Como Baixar e Jogar
 
@@ -74,7 +74,7 @@
 
  **Loops**:
 
-## Desafios/Experiência
+## 🧠 Desafios/Experiência
 
  **Maiores desafios**:
 
