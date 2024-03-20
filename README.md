@@ -19,7 +19,7 @@
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📝 Conceitos](#-Conceitos)
-| [🔒 Desafios/Experiência](#-Desafios/Experiência) |
+| [🔒 Desafios/Experiência](#-Desafios-Experiência) |
 
 ## 🏃 Como Baixar e Jogar
 
