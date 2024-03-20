@@ -1,8 +1,9 @@
 # The Ultimate Platformer
 
-> Bem-vindo ao repositório do The Ultimate Platformer Game! Este é um jogo desenvolvido durante a disciplina de Introdução à Programação do Centro de Informática.
+Em um mundo repleto de desafios e mistérios, surge o The Ultimate Platformer, um jogo envolvente e cheio de adrenalina. Prepare-se para embarcar em uma jornada emocionante, onde cada passo pode ser um novo desafio ou um encontro com o perigo. Com plataformas de diferentes Alturas, Obstáculos mortais e inimigos traiçoeiros, cada fase é um teste de habilidade e agilidade.
+Você assume o controle de um corajoso personagem, com o objetivo de alcançar a bandeira que marca o próximo nível. Mas cuidado! Cada erro pode custar uma vida, e com apenas três corações, o perigo está sempre à espreita. Explore cenários intricados, supere obstáculos desafiadores enquanto busca a vitória.
+Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. Será você capaz de superar todos os desafios e se tornar o mestre do The Ultimate Platformer?
 
-> Este repositório abriga os envios de código para cada etapa do jogo, mostrando as habilidades de resolução de problemas e o progresso ao longo do desenvolvimento do projeto.
 
 ![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
 
@@ -27,7 +28,7 @@
 
 > Para rodar o jogo basta ter python e pygame instalados, baixar o zip ou clonar esse repositório e rodar o arquivo main_menu.py no diretório do arquivo.
 
-> O seu objetivo é passar as 4 fases coletando Moedas, Chaves e Diamantes. Atento para NÃO perder todas as suas vidas.
+> Desenvolvido com plataformas de diferentes Alturas, Obstáculos e Inimigos o seu objetivo principal é mover o personagem do jogador da base até a bandeira que indicará o próximo nível
 
 > Sua vida e a quantidade de itens coletados apareceram no canto superior da tela.
 
