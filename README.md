@@ -6,7 +6,7 @@ Este repositório abriga os envios de código para cada etapa do jogo, mostrando
 
 📖 Índice:
 
-[❓ Informações-chave](#❓-informações-chave
+[❓ Informações-chave]
 ️🏗️ Estrutura do repositório
 📖 Bibliotecas usadas
 🏃 Instruções de execução
