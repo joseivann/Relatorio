@@ -4,6 +4,9 @@ Bem-vindo ao repositório do The Ultimate Platformer Game! Este é um jogo desen
 
 Este repositório abriga os envios de código para cada etapa do jogo, mostrando as habilidades de resolução de problemas e o progresso ao longo do desenvolvimento do projeto.
 
+
+![Captura de Tela (1877)](https://github.com/joseivann/jogo/assets/84510651/9b8081b5-cc95-4d22-9442-c6748ff293a7)
+
 ## 📖 Índice:
 
 | [❓ Informações-chave](#The-Ultimate-Platformer)
