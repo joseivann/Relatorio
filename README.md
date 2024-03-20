@@ -25,6 +25,6 @@ Controles:
   | ------------------------------ | -------------------------- |
   | **W-A-S-D** | Movimento |
   | **Tecla de Espaço** | Pula |
-  | **⬆-⬅-⬇-⮕** | Movimento |
+  | **⬆-⬅-⬇- ⮕** | Movimento |
 
 
