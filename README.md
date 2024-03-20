@@ -17,7 +17,7 @@
 
 | [👥 Informações-chave](#-Membros-da-equipe)
 | [🎮 Instruções de execução](#-Como-Baixar-e-Jogar)
-| [Bibliotecas usadas](#-Bibliotecas-usadas)
+| [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [Organização do código](#-Organização-do-código)
 | [Conceitos](#-Conceitos)
 | [Desafios/Experiência](#-Desafios/Experiência) |
@@ -39,7 +39,7 @@
 
 **Link para o codigo fonte**: https://github.com/CS-LucasGuimaraes/Platformer.git
 
-## Bibliotecas usadas
+## 📖 Bibliotecas usadas
 
  **PyGame**:
 > Essa biblioteca consiste em um conjunto de módulos criados com o propósito de facilitar a criação de jogos, possibilitando o desenvolvimento de jogos e aplicativos multimídia utilizando a linguagem Python.
