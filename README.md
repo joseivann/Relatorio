@@ -13,7 +13,7 @@
    * Rafael Domingos Nobrega </rdn> ([]())
    * José Ivan Xisto Vilela Junior </jixvj> ([joseivann](https://github.com/joseivann))
 
-## Índice
+# 🎯 Índice
 
 | [Informações-chave](#-Membros-da-equipe)
 | [Divisão de tarefas](#-Divisão-de-tarefas)
