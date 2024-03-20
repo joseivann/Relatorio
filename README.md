@@ -34,7 +34,7 @@
   | ------------------------------ | -------------------------- |
   | **W-A-S-D** | Movimento |
   | **Tecla de Espaço** | Pula |
-  | **🔼-◀-🔽-▶** | Movimento |
+  | **&#8592; , &#8593; , &#8594; , &#8595;** | Movimento |
 
 **Link para o codigo fonte**: https://github.com/CS-LucasGuimaraes/Platformer.git
 
