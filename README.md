@@ -52,11 +52,11 @@
 
 |            Equipe              |          Tarefas           |
 | ------------------------------ | -------------------------- |
-| **Lucas Guimarães** </lgf> | .... |
-| **Marcos Didier** </mdon> | .... |
-| **Fernanda Marques** </fmn> | ...... |
-| **Rafael Domingos** </rdn> | ...... |
-| **José Ivan** </jixvj> | ....... |
+| **Lucas Guimarães** | .... |
+| **Marcos Didier** | .... |
+| **Fernanda Marques** | ...... |
+| **Rafael Domingos** | ...... |
+| **José Ivan** | ....... |
 
 ## 📋 Organização do código
 
