@@ -29,6 +29,8 @@
   | **Tecla de Espaço** | Pula |
   | **🔼-◀-🔽-▶** | Movimento |
 
+  ## Link para o codigo fonte: https://github.com/CS-LucasGuimaraes/Platformer.git
+
 ## 📖 Bibliotecas usadas
 
  * PyGame: 
