@@ -16,7 +16,7 @@
 ## 📖 Índice
 
 | [❓ Informações-chave](#-Membros-da-equipe)
-| [🗂️ Divisão de tarefas](#Divisão-de-tarefas)
+| [🗂️ Tarefas](#Divisão-de-tarefas)
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📋 Organização do código](#-Organização-do-código)
