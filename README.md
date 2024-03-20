@@ -51,7 +51,7 @@
  **Estruturas Condicionais**:
 
   **Laços**:
-> Podem ser usados no código a partir dos comandos For e While, estas estruturas permitem a execução de instruções repetidas vezes, até que uma condição seja atingida. Dentro do jogo
+> Dentro do jogo, é possível empregar essas estruturas no código através dos comandos For e While. Eles possibilitam a repetição de instruções até que uma condição seja alcançada. Dentro do jogo...
 
  **Loops**:
 
