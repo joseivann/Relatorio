@@ -40,6 +40,7 @@
 
 ## 📖 Bibliotecas usadas
 
- * PyGame: 
+ > * PyGame:
+   Essa biblioteca consiste em um conjunto de módulos criados com o propósito de facilitar a criação de jogos, possibilitando o desenvolvimento de jogos e aplicativos multimídia utilizando a linguagem Python.    
  * Json: 
 
