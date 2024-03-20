@@ -6,7 +6,7 @@
 
 ![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)
 
-# Membros da equipe:
+# 👥 Membros da equipe:
 
 ## 📖 Índice:
 
