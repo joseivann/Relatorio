@@ -20,7 +20,7 @@
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📋 Divisão de tarefas](#-Divisão-de-tarefas)
 | [👨🏻‍💻 Organização do código](#-Organização-do-código)
-| [Conceitos](#-Conceitos)
+| [📑 Conceitos](#-Conceitos)
 | [Desafios/Experiência](#-Desafios/Experiência) |
 
 ## 🎮 Como Baixar e Jogar
