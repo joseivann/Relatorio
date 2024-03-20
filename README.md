@@ -18,7 +18,7 @@
 | [❓ Informações-chave](#-Membros-da-equipe)
 | [🏃 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
-| [📝 Conceitos](#📝-Conceitos)
+| [📝 Conceitos](#-Conceitos)
 | [🔒 Principais Desafios](#🔒-Principais-Desafios) |
 
 ## 🏃 Como Baixar e Jogar
