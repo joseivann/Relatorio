@@ -19,7 +19,7 @@
 | [🎮 Instruções de execução](#-Como-Baixar-e-Jogar)
 | [📖 Bibliotecas usadas](#-Bibliotecas-usadas)
 | [📋 Divisão de tarefas](#-Divisão-de-tarefas)
-| [Organização do código](#-Organização-do-código)
+| [👨🏻‍💻 Organização do código](#-Organização-do-código)
 | [Conceitos](#-Conceitos)
 | [Desafios/Experiência](#-Desafios/Experiência) |
 
@@ -58,7 +58,7 @@
 | **Rafael Domingos** | ...... |
 | **José Ivan** | ....... |
 
-## Organização do código
+## 👨🏻‍💻 Organização do código
 
 -
 -
