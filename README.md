@@ -65,14 +65,14 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
    **A organização do código é composta por diversas partes, sendo as principais:**
 
   - **data**
-   > É responsável pelo armazenamento de arquivos de fontes, imagens, sons, níveis e saves.
+   > Contém os arquivos de fontes, sons, imagens, níveis e saves que serão utilizados nos códigos e vistos ao jogar.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![img1](https://github.com/joseivann/Relatorio/assets/84510651/7006f882-5288-47e0-b3ec-7590d0e39a19) | ![img2](https://github.com/joseivann/Relatorio/assets/84510651/01157b39-2e87-4a6a-b8d4-99b376ba353f) | ![img3](https://github.com/joseivann/Relatorio/assets/84510651/70c22d47-9aa1-45f5-a611-e0053045b94c) |
 
  - **editor.py**
-  > Que pode ser considerado um dos pontos principais do projeto, pois nos dá a possibilidade de fazer **alterações exatamente no nível que desejarmos**, adicionando e excluindo tiles com mais facilidade, tornando a modificação de níveis mais fácil.
+  > Contém o modo editor, em que é possível se adicionar, excluir e editar tiles nas diferentes fases. Essa função foi de grande relevância ao nosso trabalho pois possibilita trazer mais dinâmica e facilidade para a criação de novos níveis que explorem a criatividade e o tamanho do desafio que se deseja propor.
 
 | | | 
 |:-------------------------:|:-------------------------:|
@@ -88,6 +88,14 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 | | | 
 |:-------------------------:|:-------------------------:|
 |![img5](https://github.com/joseivann/Relatorio/assets/84510651/25ce1609-118d-4cd0-8321-8c3b15eb0725) | ![img6](https://github.com/joseivann/Relatorio/assets/84510651/934eae6b-3480-4d72-a4fc-64c19bccb969) |
+
+ - **game.py**
+
+   > Abriga as linhas responsáveis pela renderização de nível, coletáveis e inimigos. Também contendo as funções de controle de câmera e dos processamentos de eventos.
+
+ - **scripts**
+
+   > Responsável por fornecer a base para o funcionamento do jogo auxiliando a execução das outras frentes de código. Abriga a estrutura dos tiles no tilemap.py e do menu em utils.py.
 
 
 ## 📝 Conceitos
