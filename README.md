@@ -4,7 +4,7 @@
 Você assume o controle de um corajoso personagem, com o objetivo de alcançar a bandeira que marca o próximo nível. Mas cuidado! Cada erro pode custar uma vida, e com apenas três corações, o perigo está sempre à espreita. Explore cenários intricados, supere obstáculos desafiadores enquanto busca a vitória.
 Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. Será você capaz de superar todos os desafios e se tornar o mestre do The Ultimate Platformer?
 
-| | | |
+| |
 |:-------------------------:|
 |![video2](https://github.com/joseivann/jogo/assets/84510651/f25b0bfd-8eb3-467d-a4eb-6ca39b0a111d)|
 
