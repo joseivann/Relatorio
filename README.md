@@ -78,6 +78,12 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 |:-------------------------:|:-------------------------:|
 |![img4](https://github.com/joseivann/Relatorio/assets/84510651/d85b3525-450b-46d6-ad2e-3e1897aaeaa0) | ![Gravação de Tela 2024-03-21 às 00 37 00](https://github.com/joseivann/Relatorio/assets/84510651/0a4f09ea-bf64-4e82-a62e-da3c0c40e662) |
 
+ - **main_menu.py**
+   > É responsável por renderizar o menu do jogo com 3 opções de botões do game:
+      - Start
+      - Load
+      - Exit
+
 
 
 ## 📝 Conceitos
