@@ -68,7 +68,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![img1](https://github.com/joseivann/Relatorio/assets/84510651/7006f882-5288-47e0-b3ec-7590d0e39a19)> | 
+|![img1](https://github.com/joseivann/Relatorio/assets/84510651/7006f882-5288-47e0-b3ec-7590d0e39a19)> | ![img2](https://github.com/joseivann/Relatorio/assets/84510651/01157b39-2e87-4a6a-b8d4-99b376ba353f) |
 
 
 ## 📝 Conceitos
