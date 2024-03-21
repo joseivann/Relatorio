@@ -104,7 +104,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 
  - **Listas**:
-   > Listas foram utilizadas várias vezes durante o desenvolvimento do projeto, como...
+   > Listas foram utilizadas várias vezes durante o desenvolvimento do projeto. Como em dimensões da tela do jogo, na movimentação (esquerda, direita, cima, baixo)...
  
  -
  -
