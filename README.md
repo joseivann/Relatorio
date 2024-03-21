@@ -155,6 +155,10 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![Screenshot (3)](https://github.com/joseivann/Relatorio/assets/84510651/4aa0ff39-9a49-4fa4-a90f-49b6c6b7bc76) | ![Screenshot (4)](https://github.com/joseivann/Relatorio/assets/84510651/b945ef18-7fe9-433e-a8f4-349aa302cc65) | ![Screenshot (6)](https://github.com/joseivann/Relatorio/assets/84510651/de852e59-8147-4b27-abb0-bde9ed32c31e) |
 
+| | | 
+|:-------------------------:|:-------------------------:|
+|![Screenshot (7)](https://github.com/joseivann/Relatorio/assets/84510651/b73b6960-c17a-4a2d-befe-7cba908720c7) | ![Screenshot 2024-03-21 081849](https://github.com/joseivann/Relatorio/assets/84510651/31a8cec6-4eba-4a9b-8fc8-27adce40e343) |
+
 
 
 
