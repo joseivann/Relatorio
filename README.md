@@ -61,7 +61,15 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 ## 👨🏻‍💻 Organização do código
 
--
+   **O Projeto é composto por diversas partes, sendo as principais:**
+
+   **data**
+   > É responsável pelo armazenamento de arquivos de fontes, imagens, sons, níveis e saves.
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./images_readme/GoGo-Vaccines.png">  Options |  <img width="1604" alt="jump movement" src="./images_readme/jump.png"> Movement|
+
 -
 -
 -
