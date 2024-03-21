@@ -68,7 +68,8 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./images_readme/GoGo-Vaccines.png">  Options |  <img width="1604" alt="jump movement" src="./images_readme/jump.png"> Movement|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./images_readme/GoGo-Vaccines.png">  Options |  <img width="1604" alt="jump movement" src="./images_readme/jump.png"> Movement|<img width="1604" alt="turn-down movement" src="./images_readme/turn-down.png"> Movement
+|<img width="1604" alt="crocodile-colision" src="./images_readme/Crocodile-Collision.png">  Crocodile Collision |  <img width="1604" alt="screen sho
 
 -
 -
