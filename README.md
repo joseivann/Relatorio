@@ -24,7 +24,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 | [👨🏻‍💻 Organização do código](#-Organização-do-código)
 | [📝 Conceitos](#-Conceitos)
 | [🧠 Desafios/Experiência](#-Desafios/Experiência)
-| [📸 Galeria de Imagens](#-Galeria-de-Imagens)
+| [📸 Galeria de Imagens](#-Galeria-de-Imagens) |
 
 ## 🎮 Como Baixar e Jogar
 
