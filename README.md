@@ -93,6 +93,10 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
    > Abriga as linhas responsáveis pela renderização de nível, coletáveis e inimigos. Também contendo as funções de controle de câmera e dos processamentos de eventos.
 
+| | | 
+|:-------------------------:|:-------------------------:|
+|![img7](https://github.com/joseivann/Relatorio/assets/84510651/e0e2a37e-18fd-43d5-b1e2-8d0db6609f52) | ![img8](https://github.com/joseivann/Relatorio/assets/84510651/af8e8727-ab23-4510-9bb0-2008050e8a54) |
+
  - **scripts**
 
    > Responsável por fornecer a base para o funcionamento do jogo auxiliando a execução das outras frentes de código. Abriga a estrutura dos tiles no tilemap.py e do menu em utils.py.
