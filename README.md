@@ -122,11 +122,6 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
  - **Loops**:
    > Loops foram usados em diversos momentos dentro do código, foi usado na detecção de colisão do jogador… Foram utilizados para checar a colisão de cada item com o jogador e salvar os itens coletados nos dicionários correspondentes, etc.
 
--
--
--
--
-
  - **Classes e Funções**:
    > Foram usadas para...
  
