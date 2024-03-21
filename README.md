@@ -147,13 +147,13 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 ## 📸 Galeria de Imagens
 
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|![Screenshot (1)](https://github.com/joseivann/Relatorio/assets/84510651/1b8eca5e-f82a-41e6-b71c-56330fd32925) | ![Screenshot (2)](https://github.com/joseivann/Relatorio/assets/84510651/ccd4f4b5-707f-4f7d-92e8-641a29ff6800) | ![Screenshot (5)](https://github.com/joseivann/Relatorio/assets/84510651/fecf1953-76d8-44d7-a9ae-e3488644073d) | ![Screenshot (7)](https://github.com/joseivann/Relatorio/assets/84510651/b73b6960-c17a-4a2d-befe-7cba908720c7) |
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Screenshot (1)](https://github.com/joseivann/Relatorio/assets/84510651/1b8eca5e-f82a-41e6-b71c-56330fd32925) | ![Screenshot (2)](https://github.com/joseivann/Relatorio/assets/84510651/ccd4f4b5-707f-4f7d-92e8-641a29ff6800) | ![Screenshot (5)](https://github.com/joseivann/Relatorio/assets/84510651/fecf1953-76d8-44d7-a9ae-e3488644073d) |
 
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|![Screenshot (3)](https://github.com/joseivann/Relatorio/assets/84510651/4aa0ff39-9a49-4fa4-a90f-49b6c6b7bc76) | ![Screenshot (4)](https://github.com/joseivann/Relatorio/assets/84510651/b945ef18-7fe9-433e-a8f4-349aa302cc65) | ![Screenshot (6)](https://github.com/joseivann/Relatorio/assets/84510651/de852e59-8147-4b27-abb0-bde9ed32c31e) | ![Screenshot 2024-03-21 081849](https://github.com/joseivann/Relatorio/assets/84510651/31a8cec6-4eba-4a9b-8fc8-27adce40e343) |
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Screenshot (3)](https://github.com/joseivann/Relatorio/assets/84510651/4aa0ff39-9a49-4fa4-a90f-49b6c6b7bc76) | ![Screenshot (4)](https://github.com/joseivann/Relatorio/assets/84510651/b945ef18-7fe9-433e-a8f4-349aa302cc65) | ![Screenshot (6)](https://github.com/joseivann/Relatorio/assets/84510651/de852e59-8147-4b27-abb0-bde9ed32c31e) |
 
 
 
