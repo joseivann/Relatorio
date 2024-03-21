@@ -112,7 +112,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
  -
  
  - **Dicionários:**:
-   > Dicionários foram utilizados em game.py...
+   > Dicionários foram utilizados em...
   
 -
 -
