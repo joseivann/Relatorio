@@ -147,6 +147,10 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 ## 📸 Galeria de Imagens
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Screenshot (1)](https://github.com/joseivann/Relatorio/assets/84510651/1b8eca5e-f82a-41e6-b71c-56330fd32925) | ![Screenshot (2)](https://github.com/joseivann/Relatorio/assets/84510651/ccd4f4b5-707f-4f7d-92e8-641a29ff6800) | ![Screenshot (5)](https://github.com/joseivann/Relatorio/assets/84510651/fecf1953-76d8-44d7-a9ae-e3488644073d) |
 
 
- 
+
+
