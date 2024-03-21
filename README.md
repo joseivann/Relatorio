@@ -62,7 +62,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 ## 👨🏻‍💻 Organização do código
 
-   **O Projeto é composto por diversas partes, sendo as principais:**
+   **A organização do código é composta por diversas partes, sendo as principais:**
 
   - **data**
    > É responsável pelo armazenamento de arquivos de fontes, imagens, sons, níveis e saves.
