@@ -64,7 +64,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
    **O Projeto é composto por diversas partes, sendo as principais:**
 
-   **data**
+  - **data**
    > É responsável pelo armazenamento de arquivos de fontes, imagens, sons, níveis e saves.
 
 | | | |
