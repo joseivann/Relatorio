@@ -104,26 +104,31 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 
  - **Listas**:
-   >Listas foram utilizadas várias vezes durante o desenvolvimento do projeto, como...
+   > Listas foram utilizadas várias vezes durante o desenvolvimento do projeto, como...
  
  -
  -
  -
  -
-  **Laços**:
-> Dentro do jogo, é possível empregar essas estruturas no código através dos comandos For e While. Eles possibilitam a repetição de instruções até que uma condição seja alcançada. Dentro do jogo...
+ 
+ - **Dicionários:**:
+   > Dicionários foram utilizados em game.py...
+  
 -
 -
 -
 -
 
- **Loops**:
+ - **Loops**:
+   > Loops foram usados diversos momentos dentro do código, ...
 
 -
 -
 -
 -
--
+
+ - **Classes e Funções**:
+   > Foram usadas para...
  
 
 ## 🧠 Desafios/Experiência
