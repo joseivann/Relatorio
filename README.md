@@ -81,10 +81,13 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
  - **main_menu.py**
    
    > É responsável por renderizar o menu do jogo com 3 opções de botões do game:
-      - Start
-      - Load
-      - Exit
+      - **Start**
+      - **Load**
+      - **Exit**
 
+| | | 
+|:-------------------------:|:-------------------------:|
+|![img5](https://github.com/joseivann/Relatorio/assets/84510651/25ce1609-118d-4cd0-8321-8c3b15eb0725) | ![img6](https://github.com/joseivann/Relatorio/assets/84510651/934eae6b-3480-4d72-a4fc-64c19bccb969) |
 
 
 ## 📝 Conceitos
