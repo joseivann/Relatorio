@@ -24,6 +24,7 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 | [👨🏻‍💻 Organização do código](#-Organização-do-código)
 | [📝 Conceitos](#-Conceitos)
 | [🧠 Desafios/Experiência](#-Desafios/Experiência)
+| [📸 Galeria de Imagens](#-Galeria-de-Imagens)
 
 ## 🎮 Como Baixar e Jogar
 
@@ -143,6 +144,8 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
 
 > Durante o projeto, aprendemos duas lições fundamentais. Primeiramente, compreendemos a importância do planejamento e da organização da equipe. Além disso, outro aspecto significativo que aprendemos foi a importância em reconhecer que sempre há algo a aprender e que a ajuda de outras pessoas pode ser fundamental para o progresso do projeto.
 
+
+## 📸 Galeria de Imagens
 
 
 
