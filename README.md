@@ -106,19 +106,6 @@ Embarque nesta aventura cheia de suspense, onde cada decisão pode ser crucial. 
  - **Listas**:
    > Listas foram utilizadas várias vezes durante o desenvolvimento do projeto. Como em dimensões da tela do jogo, na movimentação (esquerda, direita, cima, baixo)...
  
- -
- -
- -
- -
- 
- - **Dicionários:**:
-   > Dicionários foram utilizados em...
-  
--
--
--
--
-
  - **Loops**:
    > Loops foram usados em diversos momentos dentro do código, foi usado na detecção de colisão do jogador… Foram utilizados para checar a colisão de cada item com o jogador e salvar os itens coletados nos dicionários correspondentes, etc.
 
